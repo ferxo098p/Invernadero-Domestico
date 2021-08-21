@@ -3,7 +3,7 @@ import telebot
 import os
 import greenH_actions
 
-API_TOKEN = '1838331528:AAGT9ruBtbRsVoC0QBF-E2S-lM7rgijTPwQ'
+API_TOKEN = <ApiToken>
 
 bot = telebot.TeleBot(API_TOKEN)
 
